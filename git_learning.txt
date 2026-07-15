@@ -1,0 +1,4 @@
+git reset --hard <hash>
+git revert <hash>
+git merge <feature>
+
